@@ -17,14 +17,14 @@ As a graduate student who walks to campus every day, one of the first tasks I co
 
 The UX flow will go like this: A user begins the application by opening their mobile device camera. After identifying a unique AR image target on a flat surface like the refrigerator or a cabinet, a 3D display will be rendered in front of the user on the target. In this 3D display, local weather information will be displayed and users can slide between viewing their local weather metrics (Home Screen), a map of the weather in their location (Map Screen), and a search page where they can change the location where they want to learn about the weather (Search page). So, the Home Screen, Map Screen, and Search Screen will be the three primary GUI displays and also the primary features of the project. When viewing a particular screen, the user will be able to use their hands to toggle left or right to view the other virtual screens.
 
-*Main Goals*
+*Main Goals:*
 
 - Home Screen
 - Map Screen
 - Functioning GUI interactions
 - Accurate and properly displayed weather info
 
-*Stretch Goals*
+*Stretch Goals:*
 
 - Search for weather conditions in a non-local location using GUIs and the OpenWeather API (Search page)
 - Virtual objects for displaying climate such as clouds, sun, lightning, etc. on the Home Screen (may cost $)
@@ -32,7 +32,7 @@ The UX flow will go like this: A user begins the application by opening their mo
 - Settings to scale the AR GUIs or text for easier accessibility and customization
 - UI Polish
 
-*Inspirational Images*
+*Inspirational Images:*
 
 <img src="https://www.immersivelearning.news/wp-content/uploads/2020/07/body-img8-spotlight-weatherchannel-1920x1080-303323645.jpg" width=50% height=50%>
 
