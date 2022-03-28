@@ -30,6 +30,9 @@ The UX flow will go like this: A user begins the application by opening their mo
 - Settings to scale the AR GUIs or text for easier accessibility and customization
 - UI Polish
 
+*Inspirational Content*
+![alt text](https://www.immersivelearning.news/wp-content/uploads/2020/07/body-img8-spotlight-weatherchannel-1920x1080-303323645.jpg)
+![alt text](https://icdn.digitaltrends.com/image/digitaltrends/samsung-4-door-flex-refrigerator-with-family-hub-859x572.jpg)
 
 **========== Project Technology, SDKs, & APIs ==========**
 
