@@ -56,4 +56,5 @@ Vuforia Engine Version 10.5 - The Vuforia SDK gives me access to interactive AR 
 **========== Repository ==========**
 
 *README.md* - This file contains project documentation and explanation.
-...
+
+(More files and directories to be added)
