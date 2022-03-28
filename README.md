@@ -34,8 +34,10 @@ The UX flow will go like this: A user begins the application by opening their mo
 
 *Inspirational Images*
 
-![3D virtual weather objects](https://www.immersivelearning.news/wp-content/uploads/2020/07/body-img8-spotlight-weatherchannel-1920x1080-303323645.jpg =390x270)
-![Refrigerator weather display](https://icdn.digitaltrends.com/image/digitaltrends/samsung-4-door-flex-refrigerator-with-family-hub-859x572.jpg =430x286)
+<img src="https://www.immersivelearning.news/wp-content/uploads/2020/07/body-img8-spotlight-weatherchannel-1920x1080-303323645.jpg" width=50% height=50%>
+
+<img src="https://icdn.digitaltrends.com/image/digitaltrends/samsung-4-door-flex-refrigerator-with-family-hub-859x572.jpg" width=50% height=50%>
+
 
 **========== Project Technology, SDKs, & APIs ==========**
 
