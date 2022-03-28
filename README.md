@@ -9,10 +9,12 @@ Course: CS 8395
 
 **========== Project Description ==========**
 
-*Summary*
+*Summary:*
+
 As a graduate student who walks to campus every day, one of the first tasks I complete before getting ready is to check my mobile weather app. My final project will be similar to this application, but provide users an interactive AR experience for checking the weather through their mobile device camera. Using AR buttons, AR Image Targets, and classic UI in combination with 3D UI, and 3D models / animations (stretch goal), I intend to provide users several interactive AR screens displaying information about the local weather. The app's displayed information may include the following: Temperatures, precipitation, weather advisories, humidity, air quality index, wind speeds, and maps.
 
-*UX & Functionality*
+*UX & Functionality:*
+
 The UX flow will go like this: A user begins the application by opening their mobile device camera. After identifying a unique AR image target on a flat surface like the refrigerator or a cabinet, a 3D display will be rendered in front of the user on the target. In this 3D display, local weather information will be displayed and users can slide between viewing their local weather metrics (Home Screen), a map of the weather in their location (Map Screen), and a search page where they can change the location where they want to learn about the weather (Search page). So, the Home Screen, Map Screen, and Search Screen will be the three primary GUI displays and also the primary features of the project. When viewing a particular screen, the user will be able to use their hands to toggle left or right to view the other virtual screens.
 
 *Stretch Goals*
@@ -25,13 +27,16 @@ The UX flow will go like this: A user begins the application by opening their mo
 
 **========== Project Technology, SDKs, & APIs ==========**
 
-*Technology*
+*Technology:*
+
 Unity Engine Version 2020.3.+ - Unity will be the 3D content creation platform which I will use as my development environment.
 
-*APIs*
+*APIs:*
+
 OpenWeather Weather API (https://openweathermap.org/api) - This API grants programmatic, free access to a wide range of weather data and can be utilized through C# scripts in several ways to display weather content in my AR application (Example: https://rapidapi.com/blog/openweathermap-api-overview/c-sharp/).
 
-*SDKs*
+*SDKs:*
+
 Vuforia Engine Version 10.5 - The Vuforia SDK gives me access to interactive AR components (e.g. AR buttons or AR image targets) which can be associated with application logic and UI/UX flow programmatically.
 
 **========== Repository ==========**
