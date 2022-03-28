@@ -34,8 +34,8 @@ The UX flow will go like this: A user begins the application by opening their mo
 
 *Inspirational Images*
 
-![alt text](https://www.immersivelearning.news/wp-content/uploads/2020/07/body-img8-spotlight-weatherchannel-1920x1080-303323645.jpg = 390x270)
-![alt text](https://icdn.digitaltrends.com/image/digitaltrends/samsung-4-door-flex-refrigerator-with-family-hub-859x572.jpg = 430x286)
+![alt text](https://www.immersivelearning.news/wp-content/uploads/2020/07/body-img8-spotlight-weatherchannel-1920x1080-303323645.jpg =390x270)
+![alt text](https://icdn.digitaltrends.com/image/digitaltrends/samsung-4-door-flex-refrigerator-with-family-hub-859x572.jpg =430x286)
 
 **========== Project Technology, SDKs, & APIs ==========**
 
