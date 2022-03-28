@@ -11,7 +11,7 @@ Course: CS 8395
 
 *Summary:*
 
-As a graduate student who walks to campus every day, one of the first tasks I complete before getting ready is to check my mobile weather app. My final project will be similar to this application, but provide users an interactive AR experience for checking the weather through their mobile device camera. Using AR buttons, AR Image Targets, and classic UI in combination with 3D UI, and 3D models / animations (stretch goal), I intend to provide users several interactive AR screens displaying information about the local weather. The app's displayed information may include the following: Temperatures, precipitation, weather advisories, humidity, air quality index, wind speeds, and maps.
+As a graduate student who walks to campus every day, one of the first tasks I complete before getting ready is to check my mobile weather app. My final project will be similar to this application, but provide users an interactive AR experience for checking the weather through their mobile device camera. Using AR buttons, AR Image Targets, classic UI in combination with 3D UI, and 3D models / animations (stretch goal), I intend to provide users several interactive AR screens displaying information about the local weather. The app's displayed information may include the following: Temperatures, precipitation, weather advisories, humidity, air quality index, wind speeds, and maps.
 
 *UX & Functionality:*
 
