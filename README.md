@@ -7,7 +7,7 @@ Professor: Dr. Bodenheimer
 Course: CS 8395
 
 
-#**========== Project Description ==========**
+## **========== Project Description ==========**
 
 *Summary:*
 
@@ -39,7 +39,7 @@ The UX flow will go like this: A user begins the application by opening their mo
 <img src="https://icdn.digitaltrends.com/image/digitaltrends/samsung-4-door-flex-refrigerator-with-family-hub-859x572.jpg" width=50% height=50%>
 
 
-#**========== Project Technology, SDKs, & APIs ==========**
+## **========== Project Technology, SDKs, & APIs ==========**
 
 *Technology:*
 
@@ -53,7 +53,7 @@ OpenWeather Weather API (https://openweathermap.org/api) - This API grants progr
 
 Vuforia Engine Version 10.5 - The Vuforia SDK gives me access to interactive AR components (e.g. AR buttons or AR image targets) which can be associated with application logic and UI/UX flow programmatically.
 
-#**========== Repository ==========**
+## **========== Repository ==========**
 
 *README.md* - This file contains project documentation and explanation.
 
