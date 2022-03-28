@@ -1,8 +1,11 @@
 # Augmented Virtual Reality Final Project
 
 Creator: Dawson Lee
+
 Professor: Dr. Bodenheimer
+
 Course: CS 8395
+
 
 **========== Project Description ==========**
 
@@ -18,6 +21,7 @@ The UX flow will go like this: A user begins the application by opening their mo
 - Animations for 3D models (may cost $)
 - Settings to scale the AR GUIs or text for easier accessibility and customization
 - UI Polish
+
 
 **========== Project Technology, SDKs, & APIs ==========**
 
